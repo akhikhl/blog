@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/akhikhl
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://akhikhl.org
+  * I am akhikhl (https://keybase.io/akhikhl) on keybase.
+  * I have a public key with fingerprint 3817 213B F592 2F04 4534  C0EC 125B 5BF8 F575 C5C0
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "3817213bf5922f044534c0ec125b5bf8f575c5c0",
+            "host": "keybase.io",
+            "key_id": "125b5bf8f575c5c0",
+            "uid": "114d71eab540f4d79049432105297d00",
+            "username": "akhikhl"
+        },
+        "service": {
+            "hostname": "akhikhl.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1401384695,
+    "expire_in": 157680000,
+    "prev": "0444215e447b0d0f0af17dbb331f990f66ba6bb68cb19585fa4c015d02146fd6",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.17
+Comment: https://keybase.io/crypto
+
+yMHuAnicbZFdSBRrGMdXNzXXBFHqIj+gwT4uVpmvd3ZmyXOU0JbUCvJCxVrnnXnf
+3TmuM+vsqGuLR7w4R5fUA5UZYWl1E+aFWocECUyiSA28iC5iQ+3jXHSiTp7QwDDf
+tboIem9m5v/8/v9n3ue5n263ORK2v97jXlt8VZMwN/2+2XaiS1+LUNBQ2yh3hGpA
+Ww+s6T5kBk1Ntyg3xYmMi2U4iIHEspjmecDxCo0UhgUQQCxi4AIKUGjKSfmNUNxB
+YqAcQoWaQTTy4dVUov6Eb/5aYHjVxSAZAp7G5FWieYnnWIYGrORS6S0whExdbkSE
+lhv8WoM/QLU7KSK2aAoRI1udfwQKDdNHnEHTsAzFCJCC37KC7rjPagvGwVYEvd8i
+vFDTVXJrYmhBZkgzdMrNEFKxtHgmw9MMJ/KCBJwUCgc1E3m1OAFcgkiTE2+DWkgk
+mQ7PMgDxvAvSKo1pGTMuFUKOY7Ak0VgQoCxAKIgKZCQgAiyTUTJApVmGF7AqkP4h
+1KQblFsgvyn7SGRI8+my1Wwiqn1mum6bLcFhS05KjO/N5kjN+L7NXfkpG0XrabH9
+q/Yrz58uDpUkVx8pry7tiVZ0FTXeeMwVj75LC6d8Hjgw+3/+k1jt3ZVLSUP830KG
+FLaVLbCLuZ8CQ/Lt+mw8VX90o3X3zaU5MeljycTwiufqWs5vXYlO82XfobGSO3V7
+7QPLKebO7pzhkdye/pGarP9K5+/VKFUdpxrzovlfxq51jvzb0Zqs9i6cDni6D/dd
+UAfHK6Ops8vjnuuR2gdNkxUTx1btvQW+tzhcL1rRW7ozQ/l9cCbKzk/0j2bG0n/J
+yVx6dKbz8g5PdtbxN8/aq369WAn+Oll+9uFMX3lssvfDAK7OzDt4/lzxpBDc90dZ
++j+OohfDfxasT61uAvFsDfU=
+=BpZK
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/akhikhl
+
+==================================================================
+
