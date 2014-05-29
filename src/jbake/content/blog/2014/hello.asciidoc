@@ -1,0 +1,10 @@
+= Hello
+Andrey Hihlovskiy
+2014-05-29
+:sectanchors:
+:jbake-type: post
+:jbake-status: published
+:jbake-tags: blog
+
+Hello, this is the first post in my new blog.
+

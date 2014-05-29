@@ -1,0 +1,9 @@
+= About
+Andrey Hihlovskiy
+2014-05-29
+:sectanchors:
+:jbake-type: page
+:jbake-status: published
+
+I love programming with groovy, gradle and java.
+More information comes soon.
