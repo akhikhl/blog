@@ -1,0 +1,14 @@
+= More info
+Andrey Hihlovskiy
+2014-10-19
+:sectanchors:
+:jbake-type: post
+:jbake-status: published
+:jbake-tags: blog
+
+I live in Bonn (Germany) and work for company http://www.startext.de[startext GmbH].
+
+My technical blog at wordpress: https://akhikhl.wordpress.com/author/akhikhl/.
+
+Soon I'll post more things here.
+
